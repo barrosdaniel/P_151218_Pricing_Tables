@@ -1,0 +1,23 @@
+{
+  "name": "P_151218_Pricing_Tables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrosdaniel/P_151218_Pricing_Tables.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrosdaniel/P_151218_Pricing_Tables/issues"
+  },
+  "homepage": "https://barrosdaniel.github.io/P_151218_Pricing_Tables",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
