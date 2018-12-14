@@ -69,6 +69,10 @@ h2 {
   font-size: 1.5rem;
 }
 
+.price-box .header-green {
+  background-color: var(--highlight-color);
+}
+
 .price-box li {
   padding: 1.25rem;
   border-bottom: 1px solid var(--background-color-light);
